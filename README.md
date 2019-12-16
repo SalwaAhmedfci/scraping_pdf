@@ -1,1 +1,1 @@
-# scraping_pdf
+simple code to scrape text from pdf 
